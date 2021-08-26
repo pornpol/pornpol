@@ -11,4 +11,10 @@ I am a fast learner, highly motivated and able to work under pressure.
 - 💬 Ask me about Technology...
 - 📫 How to reach me: https://9pol.dev
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pornpol)](https://github.com/anuraghazra/github-readme-stats)
+### What I Know 😎:
+
+Frontend Skills 🖌️ - HTML5, CSS3, SCSS, TailwindCSS, JavaScript and ReactJS.
+Backend Skills 🗄️ - NodeJS, Django, Ruby on Rails, MySQL, REST API, GraphQL, Kafka.
+Related stuff - Git, AWS, JWT, Passport.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pornpol&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
