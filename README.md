@@ -10,3 +10,5 @@ I am a fast learner, highly motivated and able to work under pressure.
 - 👯 I’m looking to collaborate on High-performance Teams.
 - 💬 Ask me about Technology...
 - 📫 How to reach me: https://9pol.dev
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pornpol)](https://github.com/anuraghazra/github-readme-stats)
